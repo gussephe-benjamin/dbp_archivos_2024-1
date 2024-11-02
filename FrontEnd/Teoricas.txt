@@ -1,0 +1,34 @@
+React 
+
+- react es una libreria de javascript
+
+Componentes de react
+
+- Los componentes de react se escriben con PascalCase
+- Los componentes son una combinacion de javascript, css y html
+- Son reutiizables, puedes llamarlos y volver a ahacer uso de ellos, pueden cambiar las proiedades
+
+- Pueden ser compuestos o simples
+- Poseen estados
+
+ESTADOS
+
+- Los componentes son funciones, por lo que las variables normales no persisten 
+
+- useState añade estados al componente para que 
+
+- No es estado cuando no se puede modificar
+
+- cuando es pasado a traves de las propiedades
+
+- cuando puede ser estado cuando puede ser calculado con otros estados
+
+- usamos los hoocks
+
+
+useState
+useEffect
+ReactRouter
+TailWind
+ReactNative
+ExpoGo	

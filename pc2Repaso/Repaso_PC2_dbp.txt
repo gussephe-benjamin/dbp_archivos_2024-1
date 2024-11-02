@@ -1,0 +1,28 @@
+1). instalar 
+npm create vite@latest
+npm install
+npm run dev
+npm install react-router-dom
+
+2). realizar capeta api.js y diseñar los fetch
+
+3). diseñar el  main, utilizar router par diseñar las rutas 
+
+4). diseñar el login
+
+5). diseñar el register
+
+=
+
+arrow function 
+
+parte escrita
+
+hooks, componentes básicos, 
+- 2 marcar 
+-2 código
+- 2 vf
+- 2 abiertas
+
+
+que es componentes, view, sacrolview, text, 

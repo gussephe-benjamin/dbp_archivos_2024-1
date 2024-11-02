@@ -1,0 +1,37 @@
+- git status
+- git add "nombre"
+-git add. 
+- git commit -m "descripción"
+- git branch <name_rama>
+- git checkout <name_rama>
+- git merge <name_rama>
+- git push
+- git pull
+
+git status -> sirve para ver las capetas modificadas, si estan en  add o algún cambio antes del ultimo commit
+
+git add "nombre del archivo"  -> agrega " nombre del archivo"  del directorio de trabajo al area de preparación
+
+git add. -> agrega todos los archivos del directorio de trabajo al area de preparación
+
+git commit -m "mensaje del commit" -> guarda los cambios de los archivos que están en el area de preparación al repositorio local
+
+git branch <nombre de la rama>-> crea una rama
+
+git checkout <nombre de la rama> -> pasa de una rama a otra
+
+git merge <rama1> -> combina la rama actual con la rama ala cual le haces merge
+
+git push -> empuja los archivos que estan en commit a el repositorio
+
+pit pull -> jala los archivos nuevos del repo a tu directorio de trabajo
+
+// SHORT CUTS INTELLIJEI
+
+ctrl + f4 (pulsar sobre alguna pestañas) -> borra las pestañas 
+
+ctrl + f6  (pulsar sobre un archivo al que se desee renombrar)-> renombrar clases
+
+ctrl + shift + f -> buscador de palabras en todo tu directorio
+
+ctrl + alt + (flechas)-> moverme entre archivos
